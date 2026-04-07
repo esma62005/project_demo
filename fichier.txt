@@ -1,3 +1,3 @@
 "Ceci est un test Git" 
-"Ajout apr�s clonage" 
+"Ajout apres clonage" 
 //Commit to main
